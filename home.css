@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+#nav{
+
+    list-style-type:none;
+    text-decoration: none;
+    gap: 150px;
+    background-color: white;
+
+}
+.butt{
+    padding-left: 90px;
+}
+.section1{
+    background-color:rgb(255,249,242) ;
+    display: flex;
+    padding: 70px;
+    gap: 150px;
+}
+.section2{
+    display: flex;
+     padding-left: 70px;
+    padding-right: 70px; 
+    gap: 70px;
+    font-size: 14.5px;
+    
+} 
+.section3{
+    display: flex;
+    padding-left: 70px;
+    padding-right: 70px; 
+    gap: 90px;
+    font-size: 15px;
+    
+}
+.section4{
+    display: flex;
+    padding-left: 70px;
+    padding-right: 70px; 
+    font-size: 15px;
+    
+}
+.angle{
+     background: url(/image/Rectangle\ 55\ \(1\).png);
+    height: 300px; 
+    display: flex;
+    padding-left: 50%;
+    padding-right: 20%;
+    padding-top: 35px;
+    top: 1800px;
+    color: white;
+    margin-top: 150px;
+}  
+.radious{
+    background-color: rgb(255,249,242);
+}
+.pink{
+   
+    padding-top: 5px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.box{
+    display: flex;
+    background-color: white;
+    width: 60%;
+    height: 320px;
+    border-top: 1px solid rgb(109,24,48);
+    border-right: 1px solid rgb(109,24,48);
+    border-radius: 12px;
+    margin-left: 200px;
+    margin-top: 50px;
+    padding-top:40px;
+    padding-right: 120px;
+    padding-left: 60px;
+    
+}
+.text{
+    padding-right: 70px;
+    font-size: 15px;
+}
+.cover{
+    display:flex;
+}
+.box2{
+    background-color: white;
+    border-top: 1px solid rgb(109,24,48);
+    border-right: 1px solid rgb(109,24,48);
+    border-radius: 12px;
+    width: 30%;
+    height: 50%;
+    margin-left: 200px;
+    margin-top: 10px;
+    padding-top:40px;
+    padding-bottom:20px;
+    padding-right: 60px;
+    padding-left: 20px;
+    font-size: 14px;
+  
+}
+.box3{
+     background-color: white;
+    border-top: 1px solid rgb(109,24,48);
+    border-right: 1px solid rgb(109,24,48);
+    border-radius: 12px;
+    width: 30%;
+    height: 100%;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top:40px;
+    padding-bottom:20px;
+    padding-right: 60px;
+    padding-left: 20px;
+    font-size: 16px;
+}
+.box5{
+    display: flex;
+    background-color: white;
+    width: 60%;
+    height: 330px;
+    border-top: 1px solid rgb(109,24,48);
+    border-right: 1px solid rgb(109,24,48);
+    border-radius: 12px;
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    padding-left: 50px;
+    padding-top: 50px;
+     padding-bottom: 50px;
+     padding-right: 150px;
+    
+}
+.double{
+    background: url(image/Rectangle\ 55\ \(1\).png);
+    height: 350px; 
+    display: flex;
+    /* margin-top: 50px; */
+
+}
+.test{
+    padding-left: 250px;
+    padding-right: 200px;
+    padding-top: 50px;
+    color: white;
+    
+}
+.section5{
+    display: flex;
+    margin: 70px;
+    gap: 50px;
+    background-color: white;
+}
+.cardd{
+    border: 1px solid black;
+    height: 105px;
+    width: 85%;
+    padding-left: 10px;
+    margin: 20px;
+
+}
+
+    
+
+h3{
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 7px;
+}
+.section6{
+    padding: 50px;
+    background-color: rgb(255,249,242);
+
+}
+.week{
+    display: flex;
+    gap: 50px;
+    height: 70px;
+    
+}
+
+#kard{
+    background-color: rgb(255,249,242);
+    border: 1px solid rgb(227,227,223);
+    
+
+}
+
+#newLetter{
+    margin-top: 0px;
+    background-color: #6D1830;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+#newLetter h4{
+    font-size: 22px; line-height: 28px; font-family: "open sans";  font-weight: 400;
+}
+#newLetter p{
+    font-size: 18px; line-height: 28px; font-family: "open sans";  font-weight: 400;
+}
+.newInput{
+    width: 70%;
+    margin-right: 9px;
+    padding: 13px;
+    border-radius: 4px;
+    border: 0px;
+
+}
+.btnInput{
+    padding: 13px;
+    border-radius: 6px;
+    border: 0px;
+}
+.btnInput a{
+    text-decoration: none;
+    color: #6D1830;
+    padding: 15px;
+}
+.footerMenu{
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+    margin-left: -30px;
+}
+.footerMenu li{
+   list-style: none;
+
+    
+}
+.footerMenu a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px; line-height: 28px; font-family: "open sans";  font-weight: 400;
+    
+}
+.footerMenu{
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+    margin-left: -30px;
+}
+.footerMenu li{
+   list-style: none;
+
+    
+}
+.footerMenu a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+

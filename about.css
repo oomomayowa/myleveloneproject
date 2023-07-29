@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+main{
+    background-color: #FFF9F2;
+}
+
+.logo{
+    margin-left: 70px;
+    width: 87px;
+    height: 76px;
+    
+}
+.navbar-nav{
+    margin: 0 auto;
+    text-align: center;
+    gap: 50px;
+    width: auto;
+    height: 122px;
+    font-size: 22px;
+}
+.navbar-nav li{
+    display: inline-block;
+    margin-top: -18px;
+}
+.navbar-nav a{
+    color: black;
+}
+.navbar-nav a:hover{
+   color: #6D1830;
+   border-bottom: 2px solid #6D1830;
+}
+
+
+.downNow{
+    margin-right: 80px;
+    color: white;
+    background-color:#6D1830;
+    border: 0;
+    width: 15%;
+    border-radius: 5px;
+    font-size:19px;
+    padding: 16px 20px;
+    
+}
+
+#aboutViewE{
+    background-color: #14394C;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+}
+#aboutViewE h2{
+    font-weight: 400;
+    font-size: 45px;
+    font-family: 'lora';
+    line-height: 52px;
+    font-style: normal;
+}
+#aboutViewE p{
+    font-weight: 200;
+    font-size: 20px;
+    font-family: 'open sans';
+    line-height: 28px;
+    font-style: normal;
+    opacity: .9;
+}
+#ourStory h2{
+    font-weight: 600;
+    font-size: 36px;
+    font-family: 'lora';
+    line-height: 40px;
+}
+#ourStory p{
+    font-weight: 200;
+    font-size: 19px;
+    font-family: 'open sans';
+    line-height: 24px;
+}
+
+#ourMission{
+    background-color: #14394C;
+    height: 400px;
+    margin-bottom: 230px;
+    margin-top:200px;
+    margin-right:90px;
+    margin-left: 90px;
+    border-radius: 9px;
+    background-position:bottom center;
+    padding-top: 100px;
+    color: white;
+}
+#ourMission h2{
+    font-weight: 600;
+    font-size: 32px;
+    font-family: 'lora';
+    line-height: 40px;
+    padding-bottom: 10px;
+}
+
+.txtmission{
+    font-weight: 200;
+    font-size: 24px;
+    font-family: 'open sans';
+    line-height: 32px;
+    width: 90%;
+    opacity: .8;
+    
+    
+}
+.missionImg {
+position: absolute;
+top: 1090px;
+left: 80;
+}
+#faqs {
+    padding-bottom: 90px;
+}
+#faqs h2{
+text-align: center;
+}
+#faqs p{
+    text-align: center;
+}
+
+.getStarted{
+    background-color: #14394C;
+    height: 600px;
+    color: white;  
+}
+.gettxt{
+padding-top:230px ;
+}
+.gettxt button{
+    border: 0;
+    background-color: white;
+    padding: 10px;
+    border-radius: 3px;
+}
+.gettxt a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+.getImg{
+    position: absolute;
+    bottom: 20;
+    left: 0;
+}
+
+#testimonials{
+    background-color: #FFF9F2;
+    padding-top: 50px;
+    padding-bottom: 60px;
+
+    
+}
+#testimonials h3{
+    text-align: center;
+    padding: 35px;
+    font-size: 36px; line-height: 40px; font-family: lora; font-weight: 500;
+}
+#testimonials h5{
+    font-size: 24px; line-height: 32px; font-family: lora; font-weight: 300;
+}
+#testimonials p{
+    font-size: 16px; line-height: 24px; font-family: "open sans";  font-weight: 300;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .icon {
+    height: 56px;
+    width: 56px;
+  }
+  
+  .txttest {
+    margin: 9px;
+    font-size: 14px;
+  }
+#newLetter{
+    margin-top: 0px;
+    background-color: #6D1830;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+#newLetter h4{
+    font-size: 22px; line-height: 28px; font-family: "open sans";  font-weight: 400;
+}
+#newLetter p{
+    font-size: 18px; line-height: 28px; font-family: "open sans";  font-weight: 400;
+}
+.newInput{
+    width: 70%;
+    margin-right: 9px;
+    padding: 13px;
+    border-radius: 4px;
+    border: 0px;
+
+}
+.btnInput{
+    padding: 13px;
+    border-radius: 6px;
+    border: 0px;
+}
+.btnInput a{
+    text-decoration: none;
+    color: #6D1830;
+    padding: 15px;
+}
+.footerMenu{
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+    margin-left: -30px;
+}
+.footerMenu li{
+   list-style: none;
+
+    
+}
+.footerMenu a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px; line-height: 28px; font-family: "open sans";  font-weight: 400;
+    
+}
+.footerMenu{
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+    margin-left: -30px;
+}
+.footerMenu li{
+   list-style: none;
+
+    
+}
+.footerMenu a{
+    text-decoration: none;
+    color: black;
+    
+}
